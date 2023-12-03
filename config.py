@@ -4,9 +4,9 @@
 from os import getenv
 
 
-API_KEY = "38:5rHubT-s]DNCd#S_^+C!6$n3%r:qM"
+API_KEY = "https://dsdfdf.onrender.com/"
 
-if not API_KEY or API_KEY == "38:5rHubT-s]DNCd#S_^+C!6$n3%r:qM" or API_KEY == "":
+if not API_KEY or API_KEY == "https://dsdfdf.onrender.com/" or API_KEY == "":
     API_KEY = getenv("API_KEY")
 
     if not API_KEY:
